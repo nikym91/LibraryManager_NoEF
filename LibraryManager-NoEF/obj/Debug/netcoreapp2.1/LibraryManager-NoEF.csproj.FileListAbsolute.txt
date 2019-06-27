@@ -1,0 +1,11 @@
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\bin\Debug\netcoreapp2.1\LibraryManager-NoEF.deps.json
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\bin\Debug\netcoreapp2.1\LibraryManager-NoEF.runtimeconfig.json
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\bin\Debug\netcoreapp2.1\LibraryManager-NoEF.runtimeconfig.dev.json
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\bin\Debug\netcoreapp2.1\LibraryManager-NoEF.dll
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\bin\Debug\netcoreapp2.1\LibraryManager-NoEF.pdb
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\obj\Debug\netcoreapp2.1\LibraryManager-NoEF.csprojAssemblyReference.cache
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\obj\Debug\netcoreapp2.1\LibraryManager-NoEF.csproj.CoreCompileInputs.cache
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\obj\Debug\netcoreapp2.1\LibraryManager-NoEF.AssemblyInfoInputs.cache
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\obj\Debug\netcoreapp2.1\LibraryManager-NoEF.AssemblyInfo.cs
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\obj\Debug\netcoreapp2.1\LibraryManager-NoEF.dll
+C:\Users\magi\source\repos\LibraryManager-NoEF\LibraryManager-NoEF\obj\Debug\netcoreapp2.1\LibraryManager-NoEF.pdb
